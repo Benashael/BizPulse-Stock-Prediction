@@ -14,13 +14,13 @@ st.title("💰 Stock Prediction App")
 st.write("### Features of this Application:")
 # Display a brief description with emojis
 st.markdown("""
-## 📈 **Stock Prediction**
-    Predict future stock prices using historical data and powerful machine learning algorithms.
+📈 **Stock Prediction**
+Predict future stock prices using historical data and powerful machine learning algorithms.
 
-## 📊 **Data Visualization**
+📊 **Data Visualization**
 Visualize stock trends, patterns, and market movement to make well-informed decisions.
 
-## 💡 **Investment Insights**
+💡 **Investment Insights**
 Get accurate buy/sell recommendations based on market analysis and predictions to optimize your trading strategy.
 """)
 
