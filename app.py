@@ -17,11 +17,11 @@ st.markdown("""
 ## 📈 **Stock Prediction**
     Predict future stock prices using historical data and powerful machine learning algorithms.
 
-    ## 📊 **Data Visualization**
-    Visualize stock trends, patterns, and market movement to make well-informed decisions.
+## 📊 **Data Visualization**
+Visualize stock trends, patterns, and market movement to make well-informed decisions.
 
-    ## 💡 **Investment Insights**
-    Get accurate buy/sell recommendations based on market analysis and predictions to optimize your trading strategy.
+## 💡 **Investment Insights**
+Get accurate buy/sell recommendations based on market analysis and predictions to optimize your trading strategy.
 """)
 
 # Predefined stock symbols for each exchange
